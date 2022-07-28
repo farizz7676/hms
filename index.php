@@ -25,7 +25,7 @@ session_start();
       }
     }else{
       echo "<div class='alert alert-info'>
-              <strong>Info!</strong> Login or Register to be able to book your appointment.</div>";
+              <strong>Info!</strong> Login or Regishjhgtfrdfghgfdter to be able to book your appointment.</div>";
     }
     unset($_POST);
   ?>
