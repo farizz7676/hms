@@ -4,7 +4,7 @@
         <p align="right">
         </p>
         <p align="right">
-         - <?php echo date('Y'); ?>
+         
         </nav>
 		</p>
       </footer>
