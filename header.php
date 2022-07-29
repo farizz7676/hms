@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title> Sterling Hospital
+    <title> EMS Hospital
     </title>
     <link href="bootstrap.min.css" rel="stylesheet">
     <link href="jumbotron.css" rel="stylesheet">
@@ -14,10 +14,10 @@
   <body>
       <div class="container" style="padding-top: 10px;">
         <nav class="navbar  navbar-static-top">
-          <a class="navbar-brand">🌅 Sterling Hospital</a>
+          <a class="navbar-brand">🌅 EMS Hospital</a>
             <ul class="nav nav-pills">
               <li class="nav-item">
-                <a href="https://goo.gl/maps/PyT52gM87su" target="_blank"> Address: Sterling Hospital Road, Memnagar, Ahmedabad, Gujarat</a>
+                <a href="https://goo.gl/maps/PyT52gM87su" target="_blank"> Address: EMS Hospital Road, Perinthalmanna, Malappuram, Kerala</a>
               </li>
               <li class="nav-item">
                 <a class="" href="tel:+917709473553">Ambulance Number: 07940011111</a>
