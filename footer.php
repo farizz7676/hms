@@ -4,7 +4,7 @@
         <p align="right">
         </p>
         <p align="right">
-        Made and Managed by Dhruv Panchal - <?php echo date('Y'); ?>
+         - <?php echo date('Y'); ?>
         </nav>
 		</p>
       </footer>
